@@ -1,0 +1,1 @@
+export const availableBrands = ["Samsung", "Apple", "Huawei", "Xiaomi", "Realme", "Honor"];
